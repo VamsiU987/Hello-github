@@ -1,3 +1,4 @@
 # Hello-githubGit successfully connected
 Learning Git Day 1
 Own trail
+Learning branches on Day 2
